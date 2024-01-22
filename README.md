@@ -1,1 +1,1 @@
-Chat gpt, and Intuition testing application made using App Builder, inline javascript embedded in html.
+Inline javascript embedded in html.  Built using Chat Gpt 3.5 and App Builder.
