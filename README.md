@@ -4,4 +4,4 @@ The aim was to test your intuition.By default, you select the number of test rou
 A megérzés tesztelése volt a cél.Alap esetben válaszd ki a teszt körök számát,  majd a Játék indítása gombra nyomva a kiválasztott intervallumban fogalalt mennyiség alapján például 10, a gèp tízszer kiválaszt egy kártyát, amelyet meg kell tippelned.Amennyiben eltalálod a gèpbáltal kiválasztott szimbólumot, akkor zöld pipa jelenik meg, ha nem, akkor piros x.A gèpi üzemmód kijelölése arra jó, hogy gépi tippeléseket generálj, amelyek összehasonlíthatóak az általad véghezvitt tippelések eredményeivel. Az eredmények gomb, megjeleníti a mentett eredményeket.
 
 
-![Application started](screenshot1.jpg)
+![Application started](Screenshot1.jpg)
